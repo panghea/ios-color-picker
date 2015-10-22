@@ -403,7 +403,6 @@
 			baseConfigurationReference = AF992D634F7C1D77AA312E74 /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = ColorPicker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -416,7 +415,6 @@
 			baseConfigurationReference = 1390C9F849F23404D64F6A60 /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = ColorPicker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
